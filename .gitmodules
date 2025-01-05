@@ -1,9 +1,9 @@
 [submodule "backend1"]
 	path = backend1
-	url = ./backend1
+	url = https://github.com/lilpotato03/living-things_backend1.git
 [submodule "frontend"]
 	path = frontend
-	url = ./frontend
+	url = https://github.com/lilpotato03/living-things_frontend.git
 [submodule "backend2"]
 	path = backend2
-	url = ./backend2
+	url = https://github.com/lilpotato03/living-things_backend2.git
